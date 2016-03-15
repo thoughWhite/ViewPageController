@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  TitlePage
+//
+//  Created by 邢大象 on 16/3/15.
+//  Copyright © 2016年 邢大象. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIView+Addition.h"
+#define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
+
+#endif /* PrefixHeader_pch */
